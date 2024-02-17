@@ -1,4 +1,4 @@
-﻿unit uNotificador;
+﻿unit VCL.uNotificador;
 
 interface
 
