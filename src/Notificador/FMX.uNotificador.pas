@@ -244,7 +244,6 @@ procedure TNotificador.Fechar(Sender: TObject);
 begin
   RemoverDaListaNotificadores;
   LimparComponentes;
-  //destroy;
 end;
 
 procedure TNotificador.ConfigurarListra;
