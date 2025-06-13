@@ -98,6 +98,7 @@ end;
 destructor TNotificador.Destroy;
 begin
 
+  LimparComponentes;
   inherited;
 end;
 
